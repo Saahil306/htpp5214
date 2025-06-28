@@ -1,0 +1,29 @@
+/* Style for the entire page */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #fce4ec; /* Light pink background */
+  color: #4a148c; /* Deep purple text */
+}
+
+/* Style for the main heading */
+h1 {
+  font-size: 2rem;
+}
+
+/* Style for the button */
+button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background-color: #ce93d8; /* Light purple button */
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #ba68c8; /* Slightly darker on hover */
+}
